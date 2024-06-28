@@ -13,4 +13,4 @@ A puzzle game that uses live video from the computer's webcam. I built this proj
 
 ## Preview
 
-![Preview](https://github.com/mvrahas/element/blob/master/public/assets/preview.png)
+![Preview](https://github.com/mvrahas/element/blob/main/public/assets/preview.png)
