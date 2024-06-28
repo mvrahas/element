@@ -13,4 +13,4 @@ A puzzle game that uses live video from the computer's webcam. I built this proj
 
 ## Preview
 
-![Preview](https://github.com/mvrahas/gwo-foto/blob/master/public/assets/welcome/gwo-foto-map%401x.png)
+![Preview](https://github.com/mvrahas/element/blob/master/public/assets/preview.png)
